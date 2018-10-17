@@ -1,1 +1,2 @@
 # Hit & Run
+Gra typu Arkanoid, odbijanie kulki od platformy, zbijanie klocków, które spadają i trzeba ich uniknąć, po zbiciu całej linii generuje się nowa (gra zapętlona bez możliwości wygrania), klocki o różnych poziomach trudności( należy uderzyć więcej niż raz, aby strącić bloczek), po wypadnięciu kulki za dolną linię koniec gry, tak samo jak po trafieniu bloczkiem w platformę. Baza danych uzytkoniwków, punktacja z możliwością dodania i wyświetlania oraz sortowanie po wynikach malejąco.
